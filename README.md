@@ -1,7 +1,7 @@
-Electron YouTube Player
+Electron Video Player
 =======================
 
-This is a desktop app created using [Electron](http://electron.atom.io/), written using React and Redux. It manages playlists of YouTube videos, and plays them in various ways.
+This is a fork of electron-youtube-player (https://github.com/BinaryMuse/electron-youtube-player). It manages playlists of videos, and plays them in various ways.
 
 Installing/Running
 ------------------
